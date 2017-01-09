@@ -1,0 +1,30 @@
+body{
+
+}
+#memberList{
+	margin-right: 50%;
+	margin-top: -20px;
+}
+#messageDiv{
+	margin-left: 50%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+}
+.green{
+	color: green;
+}
+.red{
+	color: red;
+}
+.blablabla{
+	margin-right: 400px;
+	border: 3px solid #DDDDDD;
+}
+#emoji{
+	width: 30px;
+	
+}
+#emojiClicked{
+	width: 20px;
+}
